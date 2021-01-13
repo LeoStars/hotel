@@ -1,0 +1,7 @@
+{
+  "ssl_mode" : "disable",
+  "host": ":8080",
+  "db_name": "hotels",
+  "user": "postgres",
+  "password": "postgres"
+}
